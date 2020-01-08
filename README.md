@@ -1,2 +1,2 @@
-# terraform4ecs
-create ecs cluster and service using terraform with github actions pipeline
+# ECS-cluster
+How to create an ECS Cluster with Terrafrom
